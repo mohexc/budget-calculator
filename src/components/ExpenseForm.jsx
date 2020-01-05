@@ -31,7 +31,7 @@ const ExpenseForm = ({ charge, amount, handleCharge, handleAmount, handleSubmit,
           />
         </div>
       </div>
-      <button type="submit" className="btn">submit<MdSend className="btn-icon" /></button>
+      <button type="submit" className="btn">ตกลง<MdSend className="btn-icon" /></button>
     </form>
   )
 }
